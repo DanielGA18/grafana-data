@@ -1,0 +1,54 @@
+[
+  {
+    "category": "Volcano",
+    "name": "Mount Vesuvius",
+    "dn": "Italy",
+    "value": 100,
+    "beginTime": "2019-10-13T10:13:20Z",
+    "endTime": "2019-10-13T10:26:40Z",
+    "granularityInterval": "PT100S",
+    "elementType": "Type A",
+    "vendorName": "Vendor A",
+    "managerIp": "10.0.0.1",
+    "managerFilename": "manager1.log"
+  },
+  {
+    "category": "Mountain",
+    "name": "Mount Everest",
+    "dn": "Nepal",
+    "value": 200,
+    "beginTime": "2019-10-13T10:13:20Z",
+    "endTime": "2019-10-13T10:26:40Z",
+    "granularityInterval": "PT100S",
+    "elementType": "Type B",
+    "vendorName": "Vendor B",
+    "managerIp": "10.0.0.2",
+    "managerFilename": "manager2.log"
+  },
+  {
+    "category": "Lake",
+    "name": "Lake Baikal",
+    "dn": "Russia",
+    "value": 150,
+    "beginTime": "2019-10-13T10:13:20Z",
+    "endTime": "2019-10-13T10:26:40Z",
+    "granularityInterval": "PT100S",
+    "elementType": "Type C",
+    "vendorName": "Vendor C",
+    "managerIp": "10.0.0.3",
+    "managerFilename": "manager3.log"
+  },
+  {
+    "category": "Desert",
+    "name": "Sahara Desert",
+    "dn": "Africa",
+    "value": 50,
+    "beginTime": "2019-10-13T10:13:20Z",
+    "endTime": "2019-10-13T10:26:40Z",
+    "granularityInterval": "PT100S",
+    "elementType": "Type F",
+    "vendorName": "Vendor F",
+    "managerIp": "10.0.0.6",
+    "managerFilename": "manager6.log"
+  }
+]
