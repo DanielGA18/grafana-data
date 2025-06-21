@@ -1,4 +1,3 @@
-[
   {
     "category": "Volcano",
     "name": "Mount Vesuvius",
@@ -51,4 +50,3 @@
     "managerIp": "10.0.0.6",
     "managerFilename": "manager6.log"
   }
-]
